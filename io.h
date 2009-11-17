@@ -18,6 +18,7 @@ embodied in the content of this file are licensed under the BSD
 #include <sys/types.h>
 #include <sys/socket.h>
 #include <unistd.h>
+#include <stdint.h>
 #include "v_array.h"
 
 using namespace std;

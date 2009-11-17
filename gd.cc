@@ -5,6 +5,7 @@ embodied in the content of this file are licensed under the BSD
  */
 
 #include <stdlib.h>
+#include <cstdio>
 #include <math.h>
 #include <float.h>
 #include <string.h>
